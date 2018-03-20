@@ -1,3 +1,4 @@
+/**使用vue完成一个简单的todolist */
 var vm = new Vue({
     el: '#app',
     data:{
